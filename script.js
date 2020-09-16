@@ -159,4 +159,5 @@ cropButton.onclick = () =>{
             a.href = canvas.toDataURL();
             a.click();
         }
+        
     
