@@ -1,4 +1,4 @@
-### Comando para rodar o servidor: npx lite-server ###
+#_CodeDrops - RocketSeat_ 
 
-Para manipular qualquer imagem no HTML utilizamos canvas."# imageEdition" 
-"# imageEdition" 
+##Projeto acompanhado para solidificar conhecimentos sobre HTML e Javascript.
+![demo](/imagens/screenshots/imagecrop.png)
